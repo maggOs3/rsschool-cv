@@ -19,3 +19,16 @@
 I started being interested in programming at the age of 17. Since then, I have learned many programming languages. This has now become my hobby.
 
 My dream is to create a 3D game
+
+---
+
+## Skills and Proficiency
+
+- JavaScript
+- Python
+- HTML5
+- CSS3
+- Figma
+- VSCode
+
+---
