@@ -13,3 +13,9 @@
 **[GitHub](https://github.com/maggOs3)**
 
 ---
+
+## About Me
+
+I started being interested in programming at the age of 17. Since then, I have learned many programming languages. This has now become my hobby.
+
+My dream is to create a 3D game
